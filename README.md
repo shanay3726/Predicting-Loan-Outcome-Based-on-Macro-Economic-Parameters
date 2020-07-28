@@ -5,8 +5,5 @@ The application uses Python language. Preprocessing of data is done using PCA an
 
 ## Screenshots of the Results
 ![KNN](https://i.imgur.com/IEKtg3k.png) ![KNN - Testing](https://i.imgur.com/yqUDhZS.png)
-![KNN - Testing](https://i.imgur.com/yqUDhZS.png)
-![Logistic Regression - Training](https://i.imgur.com/9ggt71g.png)
-![Logistic Regression - Testing](https://i.imgur.com/BMJPIre.png)
-![Random Forest - Training](https://i.imgur.com/CQfG0eK.png)
-![Random Forst - Testing](https://i.imgur.com/9ggt71g.png)
+![Logistic Regression](https://i.imgur.com/SwCB69m.png) ![Logistic Regression - Testing](https://i.imgur.com/nTcbU5E.png)
+![Random Forest - Training](https://i.imgur.com/BCOwScI.png) ![Random Forst - Testing](https://i.imgur.com/ui5sYQM.png)
