@@ -4,7 +4,7 @@ Predicting Loan Outcome based on macro-economic parameters in addition to the mi
 The application uses Python language. Preprocessing of data is done using PCA and the data available is already preprocessed and cleaned.
 
 ## Screenshots of the Results
-![KNN - Training](https://i.imgur.com/IEKtg3k.png)(https://i.imgur.com/yqUDhZS.png)
+![KNN - Training](https://i.imgur.com/IEKtg3k.png)(https://i.imgur.com/yqUDhZS.png) ![KNN - Testing](https://i.imgur.com/yqUDhZS.png)
 ![KNN - Testing](https://i.imgur.com/yqUDhZS.png)
 ![Logistic Regression - Training](https://i.imgur.com/9ggt71g.png)
 ![Logistic Regression - Testing](https://i.imgur.com/BMJPIre.png)
